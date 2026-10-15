@@ -1,53 +1,40 @@
 {
-  "name": "Stop the Hospital Closure",
+  "name": "Stop the fracking",
   "tagline": "Our community hospital closes in 30 days unless we act.",
-  "logo": "",
   "primary_color": "#2b1a5e",
+  "button_color": "#2b1a5e",
+  "accent_color": "#cdf54a",
+  "font": "grotesque",
+  "photo_style": "duotone",
+  "main_site_url": "https://example.org",
   "contact_email": "hello@example.org",
   "footer_text": "Paid for by Keep St. Mary's Open.",
-  "social": {
-    "twitter": "",
-    "facebook": "",
-    "instagram": ""
-  },
   "hero": {
     "headline": "Keep St. Mary's emergency room open.",
+    "highlight": "open.",
     "subheadline": "The hospital board votes next month on closing our only A&E. Every gift before Friday is matched, pound for pound.",
-    "image": "https://images.unsplash.com/photo-1581056771107-24ca5f033842?auto=format&fit=crop&w=1400&q=80",
-    "highlight": "open."
+    "image": "/assets/uploads/611a8b63509f66566dc3d5ac_1_xe8PnzjzgjVu8Uuus8YzOg.jpeg"
   },
-  "petition": {
-    "title": "Sign the petition",
-    "embed_url": "",
-    "embed_height": 700,
-    "embed_html": "",
-    "fallback_url": "",
-    "enabled": false
-  },
-  "donate": {
-    "title": "Give today",
-    "embed_url": "",
-    "embed_height": 700,
-    "embed_html": "",
-    "fallback_url": "",
-    "amounts": [
-      "\u00a310",
-      "\u00a325",
-      "\u00a350",
-      "\u00a3100"
-    ],
-    "impact": "<b>\u00a325</b> becomes \u00a350 and reaches 1,000 local voters.",
-    "button": "Donate now"
-  },
-  "template": "rapid-response",
-  "main_site_url": "https://example.org",
-  "button_color": "#2b1a5e",
-  "font": "grotesque",
   "cta_band": {
     "headline": "The deadline is close. Your gift is doubled.",
     "text": "Help keep St. Mary's emergency room open for every family in our town.",
-    "image": "https://images.unsplash.com/photo-1517120026326-d87759a7b63b?auto=format&fit=crop&w=2000&q=80"
+    "image": "/assets/uploads/Screenshot 2026-08-14 at 08.34.09.png"
   },
-  "accent_color": "#cdf54a",
-  "photo_style": "duotone"
+  "petition": {
+    "enabled": false,
+    "title": "Sign the petition",
+    "embed_height": 700
+  },
+  "donate": {
+    "title": "Give today",
+    "button": "Donate now",
+    "amounts": [
+      "£10",
+      "£25",
+      "£50",
+      "£100"
+    ],
+    "impact": "<b>£25</b> becomes £50 and reaches 1,000 local voters.",
+    "embed_height": 700
+  }
 }
